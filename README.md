@@ -6,8 +6,8 @@ structure, profitability, and the effectiveness of its restaurant partnerships.<
 </br>
 
 **Objectives**</br>
-• Analyse the costs of the company and suggest ways to reduce them.
-• Evaluate the profitability of the firm over the span of that month.
+• Analyse the costs of the company and suggest ways to reduce them.</br>
+• Evaluate the profitability of the firm over the span of that month.</br>
 • Analyse the restaurant structure of the food delivery company and provide suggestions.
 
 ## Credits and Resources
