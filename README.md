@@ -2,7 +2,7 @@
 
 This study analyses a food delivery company's performance based on data collected 
 in January 2024. The analysis aims to provide insights into the company's cost 
-structure, profitability, and the effectiveness of its restaurant partnerships.
+structure, profitability, and the effectiveness of its restaurant partnerships.</br>
 **Objectives**
 • Analyse the costs of the company and suggest ways to reduce them.
 • Evaluate the profitability of the firm over the span of that month.
