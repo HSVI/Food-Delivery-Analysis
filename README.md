@@ -1,16 +1,13 @@
 # Food-Delivery-Analysis 🚚
 
-This study analyses a food delivery company's performance based on data collected 
-in January 2024. The analysis aims to provide insights into the company's cost 
-structure, profitability, and the effectiveness of its restaurant partnerships.</n>
-</br>
+This study analyzes a food delivery company's performance using data from January 2024. The goal is to uncover insights into the company's cost structure, profitability, and the effectiveness of its restaurant partnerships.
 
-**🎯 Objectives**</br>
-• Analyse the costs of the company and suggest ways to reduce them.</br>
-• Evaluate the profitability of the firm over the span of that month.</br>
-• Analyse the restaurant structure of the food delivery company and provide suggestions.
+## 🎯 Objectives
+- **Analyze Costs:** Evaluate and suggest ways to reduce company costs.
+- **Profitability Evaluation:** Assess the firm's profitability over the month.
+- **Restaurant Partnership Analysis:** Examine the restaurant structure and offer improvement suggestions.
 
-## 🔗 Credits and Resources 
-Special thanks to Roman Nikiforov for providing the dataset, aspects of this paper 
-were inspired by Roman’s analysis.
-Dataset: https://www.kaggle.com/datasets/romanniki/food-delivery-cost-andprofitabilit
+## 🔗 Credits and Resources
+Special thanks to Roman Nikiforov for providing the dataset. Parts of this analysis were inspired by Roman’s work. [Dataset Link](https://www.kaggle.com/datasets/romanniki/food-delivery-cost-and-profitabilit)
+
+Dive into the analysis and discover key insights for optimizing food delivery services! 🚀
